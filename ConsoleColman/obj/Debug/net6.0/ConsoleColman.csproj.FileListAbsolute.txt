@@ -1,0 +1,15 @@
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\bin\Debug\net6.0\ConsoleColman.exe
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\bin\Debug\net6.0\ConsoleColman.deps.json
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\bin\Debug\net6.0\ConsoleColman.runtimeconfig.json
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\bin\Debug\net6.0\ConsoleColman.dll
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\bin\Debug\net6.0\ConsoleColman.pdb
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.csproj.AssemblyReference.cache
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.AssemblyInfoInputs.cache
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.AssemblyInfo.cs
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.csproj.CoreCompileInputs.cache
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.dll
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\refint\ConsoleColman.dll
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.pdb
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.genruntimeconfig.cache
+C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ref\ConsoleColman.dll
