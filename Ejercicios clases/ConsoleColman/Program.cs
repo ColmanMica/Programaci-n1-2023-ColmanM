@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Collections.Concurrent;
 using System.ComponentModel.Design;
 using System.Diagnostics.CodeAnalysis;
 /*
@@ -204,7 +205,7 @@ Console.WriteLine();
 //WHILE
 //El ususario ingresará valores positivos, cuando no tenga mas valores ingresará 0
 //El sistema deberá informar la suma de los ingresados.
-
+/*
 Console.WriteLine("ingresar valores: ,ingresar cero si no hay más valores. ");
 int Suma = 0;
 string valor = Console.ReadLine();
@@ -212,11 +213,34 @@ int valorI = int.Parse(valor);
 
 while (valorI > 0);
 {
-   Suma = Suma + valorI;
+  Suma = Suma + valorI;
     Console.WriteLine("ingresar valor:");
     valorI = Console.ReadLine();
     valorI = int.Parse(valorI);
     
 }
-Console.WriteLine("La suma de los ingresados es: " + Suma);
+    Console.WriteLine("La suma de los ingresados es: " + Suma);
+
+*/
+//2.	Siguiendo el ejercicio anterior, calcular el promedio de los valores ingresados
+/*
+Console.WriteLine("ingresar valores: ,ingresar cero si no hay más valores. ");
+int Suma = 0;
+string valor = Console.ReadLine();
+int valorI = int.Parse(valor);
+int Contsu = 0;
+while (valorI > 0) ;
+{
+    Suma = Suma + valorI;
+    Console.WriteLine("ingresar valor:");
+    valorI = Console.ReadLine();
+    valorI = int.Parse(valorI);
+    Contsu = Contsu + 1;
+}
+Console.WriteLine("La suma de los ingresados es: " + Suma/Contsu);
+
+*/
+
+//3.El usuario ingresará una lista de nombre de persona, cuando se ingresé un nombre vacío,
+//sin datos; el sistema informará cuántos nombres de han ingresado.
 
