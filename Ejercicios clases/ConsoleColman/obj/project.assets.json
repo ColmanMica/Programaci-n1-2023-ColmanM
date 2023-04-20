@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaston Vasallo\\source\\repos\\ConsoleColman\\ConsoleColman\\ConsoleColman.csproj",
+      "projectUniqueName": "C:\\Users\\Gaston Vasallo\\Documents\\GitHub\\Programaci-n1-2023-ColmanM\\Ejercicios clases\\ConsoleColman\\ConsoleColman.csproj",
       "projectName": "ConsoleColman",
-      "projectPath": "C:\\Users\\Gaston Vasallo\\source\\repos\\ConsoleColman\\ConsoleColman\\ConsoleColman.csproj",
+      "projectPath": "C:\\Users\\Gaston Vasallo\\Documents\\GitHub\\Programaci-n1-2023-ColmanM\\Ejercicios clases\\ConsoleColman\\ConsoleColman.csproj",
       "packagesPath": "C:\\Users\\Gaston Vasallo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaston Vasallo\\source\\repos\\ConsoleColman\\ConsoleColman\\obj\\",
+      "outputPath": "C:\\Users\\Gaston Vasallo\\Documents\\GitHub\\Programaci-n1-2023-ColmanM\\Ejercicios clases\\ConsoleColman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

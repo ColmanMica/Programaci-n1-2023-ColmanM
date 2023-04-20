@@ -244,3 +244,15 @@ Console.WriteLine("La suma de los ingresados es: " + Suma/Contsu);
 //3.El usuario ingresará una lista de nombre de persona, cuando se ingresé un nombre vacío,
 //sin datos; el sistema informará cuántos nombres de han ingresado.
 
+Console.WriteLine("Ingrese nombre de persona: ");
+string Nombre;
+new List<string>();  = List<string> list;  
+int Nom = int.Parse(Nombre);
+int suma = 0;
+
+while (Nom = Nombre) ;
+{
+    suma= Nom + 1;
+    if Nom == " ") ;
+    Console.WriteLine("El numero de ingresantes es:" + suma);
+}

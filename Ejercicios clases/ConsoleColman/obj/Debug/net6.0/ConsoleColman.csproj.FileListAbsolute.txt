@@ -13,3 +13,11 @@ C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.
 C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.pdb
 C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ConsoleColman.genruntimeconfig.cache
 C:\Users\Gaston Vasallo\source\repos\ConsoleColman\ConsoleColman\obj\Debug\net6.0\ref\ConsoleColman.dll
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.csproj.AssemblyReference.cache
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.AssemblyInfoInputs.cache
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.AssemblyInfo.cs
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.csproj.CoreCompileInputs.cache
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.dll
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\refint\ConsoleColman.dll
+C:\Users\Gaston Vasallo\Documents\GitHub\Programaci-n1-2023-ColmanM\Ejercicios clases\ConsoleColman\obj\Debug\net6.0\ConsoleColman.pdb
